@@ -3,7 +3,6 @@
 
 <h1 align="center">Hi 👋, I'm Kavya Pantrangi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-![Profile Views](https://komarev.com/ghpvc/?username=kavyapantrangi)
 
 
 - 🔭 I’m currently working on **Improving my coding skills**
